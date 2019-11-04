@@ -1,5 +1,5 @@
-import data from "./contactCollection.js"
+import contactForm from "./contactForm.js"
+import contactList from "./contactList.js"
 console.log("is this working?")
-data.saveContact({name: "Jonny"}).then(
-data.getContacts().then(data =>
-console.log(data)))
+contactForm.formOnDom();
+contactList.postList();

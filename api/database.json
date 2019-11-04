@@ -2,23 +2,27 @@
   "contacts": [
     {
       "name": "Billy",
+      "number": "4",
+      "address": "somewhere",
       "id": 1
     },
     {
       "name": "Jonny",
+      "number": "5",
+      "address": "a place",
       "id": 2
     },
     {
-      "name": "Jonny",
+      "name": "Sully",
+      "number": "828",
+      "address": "here",
       "id": 3
     },
     {
-      "name": "Jonny",
+      "name": "Kaladin",
+      "number": "7",
+      "address": "Roshar",
       "id": 4
-    },
-    {
-      "name": "Jonny",
-      "id": 5
     }
   ],
   "profile": {
