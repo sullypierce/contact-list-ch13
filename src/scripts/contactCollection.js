@@ -12,7 +12,7 @@ const jsonCollection = {
             },
             body: JSON.stringify(contactObj)
         }
-        )
+        ).then(data => data.json())
     }
 }
 export default jsonCollection
